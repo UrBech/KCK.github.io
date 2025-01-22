@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'FONTKCK';
+    src: local('../fonts/FONTKCK');
+    src: url('../fonts/FONTKCK.ttf') format('truetype'), url('../fonts/FONTKCK.woff') format('woff'), url('../fonts/FONTKCK.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}

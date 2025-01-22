@@ -1,0 +1,7 @@
+@font-face {
+    font-family: '123';
+    src: local('../fonts/123');
+    src: url('../fonts/123.ttf') format('truetype'), url('../fonts/123.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
